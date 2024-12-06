@@ -1,6 +1,6 @@
 # Intelligent Query Processor 🚀
 
-An advanced AI-powered tool to process complex queries on structured datasets, leveraging NLP and machine learning for flexible, efficient data exploration.
+An advanced AI-powered tool to process complex queries on structured datasets, leveraging LLM and machine learning models for flexible, efficient data exploration.
 
 ---
 
