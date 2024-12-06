@@ -120,7 +120,7 @@ Here’s how the tool works step-by-step:
    - main.py: The main program file.
    - utils.py: Contains helper functions and query processing logic.
    - results.json: Outputs the processed query results.
-   - 
+
 ---
 
 ## 💻 Google Colab Integration
