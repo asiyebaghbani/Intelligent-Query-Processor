@@ -83,7 +83,7 @@ The results will also be saved to a JSON file: `results.json`.
 
 ---
 ## Requirements 📋
-   - Python 3.8+
+   - Python 3.10.9+
    - Dependencies (install via pip install -r requirements.txt):
       - Transformers
       - Pandas
